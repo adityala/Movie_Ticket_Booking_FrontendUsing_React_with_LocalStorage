@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/css/main.c0a9f908.css",
+    "main.js": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/js/main.2eb2c9f7.js",
+    "static/media/fa-solid-900.ttf": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/image4.jpg": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/image4.65a14c587e7ad667a4e9.jpg",
+    "static/media/image2.jpg": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/image2.fa40519ae57bda6a8317.jpg",
+    "static/media/fa-brands-400.ttf": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/image3.jpg": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/image3.dc795254dc35197e185c.jpg",
+    "static/media/fa-solid-900.woff2": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/image1.jpg": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/image1.9949354f14c893800235.jpg",
+    "static/media/fa-regular-400.ttf": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/image5.jpg": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/image5.a922bf895cfd835e85e8.jpg",
+    "static/media/fa-regular-400.woff2": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/index.html",
+    "main.c0a9f908.css.map": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/css/main.c0a9f908.css.map",
+    "main.2eb2c9f7.js.map": "/Movie_Ticket_Booking_FrontendUsing_React_with_LocalStorage/static/js/main.2eb2c9f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a9f908.css",
+    "static/js/main.2eb2c9f7.js"
+  ]
+}
